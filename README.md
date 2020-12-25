@@ -8,7 +8,7 @@
 
 Let's About Know Me:
 
-- 🔭 I’m currently working on Student,
+- 🔭 I’m currently studying,
 - 🌱 I’m currently learning Bsc Travel & Hospitality Management,
 - 👯 I’m looking to collaborate on My Projects,
 - 🤔 I’m looking for help with open source,

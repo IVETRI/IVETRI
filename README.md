@@ -17,7 +17,6 @@ Let's About Know Me:
 - 😄 Call me *VETRI*
 - ⚡ Fun fact: I'M Human...
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=IVETRI&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 **Languages and Tools:**  
 
@@ -34,13 +33,7 @@ Let's About Know Me:
 <a href="https://github.com/ivetri">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ivetri&show_icons=true&theme=light&line_height=27" alt="Vetri's github stats"/>
 </a>
-<a href="https://github.com/ivetri/FlutterExampleApps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ivetri&repo=FlutterExampleApps&theme=light" />
 
-</a>
-<a href="https://github.com/ivetri/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ivetri&repo=VelocityX&theme=light" />
-</a>
 
 <div align="center">
 

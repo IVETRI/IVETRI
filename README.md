@@ -5,7 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IMVETRI&label=Views&color=blue&style=plastic" alt="IMVETRI" /> </p>
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/IVETRI/)
-Here are some ideas to get you started:
+
+Let's About Know Me:
 
 - 🔭 I’m currently working on Student,
 - 🌱 I’m currently learning Bsc Travel & Hospitality Management,

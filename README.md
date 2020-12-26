@@ -6,7 +6,7 @@
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/IVETRI/)
 
-<img align="right" alt="cmulay | Read Book" src="https://github.com/CyberBoyAyush/CyberBoyAyush/blob/master/designs/multi.gif" width="300" height="300" />
+<img align="right" alt="cmulay | Read Book" src="https://github.com/ivetri/ivetri/blob/master/multi.gif" width="300" height="300" />
 
 Let's About Know Me:
 

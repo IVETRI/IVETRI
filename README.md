@@ -43,3 +43,9 @@ Let's About Know Me:
 
 </div>
 
+## Github Trophy🏆
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ivetri&theme=onedark)](https://github.com/Ivetri)
+
+<p align="center">
+    <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20❤-red?style=for-the-badge&logo=github"/>
+</p>

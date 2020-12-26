@@ -6,6 +6,8 @@
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/IVETRI/)
 
+<img align="right" alt="cmulay | Read Book" src="https://github.com/Ivetri/Ivetri/blob/master/designs/multi.gif" width="300" height="300" />
+
 Let's About Know Me:
 
 - 🔭 I’m currently studying,

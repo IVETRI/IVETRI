@@ -12,7 +12,7 @@
 
 </p>
 
-### 🙏 Pranam <img src="https://github.com/CyberBoyAyush/CyberBoyAyush/blob/master/gifs/Hi.gif" width="30px"></h2>
+### 🙏 Pranam <img src="https://github.com/IVETRI/IVETRI/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 # Let's About Know Me:
 

@@ -56,7 +56,7 @@ Let's About Know Me:
 
 [website]: https://github.com/Ivetri/
 [email]: mailto:imvetri25@gmail.com
-[telegram]: https://t.me/ivetri
+[telegram]: https://t.me/imvetri
 
 <br />
 <br />

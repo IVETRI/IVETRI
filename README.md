@@ -12,9 +12,13 @@
 
 </p>
 
-### 🙏 Pranam <img src="https://github.com/IVETRI/IVETRI/blob/iMvEtRi/gifs/Hi.gif" width="30px"></h2>
+### 🙏 வணக்கம்! <img src="https://github.com/IVETRI/IVETRI/blob/iMvEtRi/gifs/Hi.gif" width="30px"></h2>
 
-# Let's About Know Me:
+## My Info <img src="https://github.com/IVETRI/IVETRI/blob/iMvEtRi/gifs/Hi.gif" width="30px"></h2>
+
+<img align="right" alt="cmulay | Read Book" src="https://github.com/IVETRI/IVETRI/blob/iMvEtRi/designs/multi.gif" width="300" height="300" />
+
+[👋](https://t.me/iMvEtRi) I'm [VETRI](https://telegram.me/iMvEtRi),
 
 - 🔭 I’m currently studying,
 - 🌱 I’m currently learning Bsc Travel & Hospitality Management,

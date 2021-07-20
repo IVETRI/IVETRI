@@ -54,9 +54,9 @@ Let's About Know Me:
 [<img align="left" alt="The-Repo-Club | Gmail" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 [<img align="left" alt="The-Repo-Club | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
-[Website]: https://github.com/IVETRI/
-[Email]: Mail to: iMvEtRi25@gmail.com
-[Telegram]: https://t.me/iMvEtRi
+[website]: https://github.com/IVETRI/
+[email]: mailto: iMvEtRi25@gmail.com
+[telegram]: https://t.me/iMvEtRi
 
 <br />
 <br />

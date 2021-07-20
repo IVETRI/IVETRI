@@ -50,13 +50,13 @@ Let's About Know Me:
 
 ### Connect with me:
 
-[<img align="left" alt="The-Repo-Club | GitHub" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][website]
-[<img align="left" alt="The-Repo-Club | Gmail" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
-[<img align="left" alt="The-Repo-Club | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="IVETRI | GitHub" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][website]
+[<img align="left" alt="IVETRI | Gmail" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+[<img align="left" alt="IVETRI | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
-[website]: https://github.com/IVETRI/
-[email]: mailto: iMvEtRi25@gmail.com
-[telegram]: https://t.me/iMvEtRi
+[website]: https://github.com/Ivetri/
+[email]: mailto:imvetri25@gmail.com
+[telegram]: https://t.me/ivetri
 
 <br />
 <br />

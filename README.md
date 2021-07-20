@@ -1,4 +1,3 @@
-### Hi there! 👋
 ### Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 [![telegram badge](https://img.shields.io/badge/IMVETRI-30302f?style=flat&logo=telegram)](https://t.me/IMVETRI)
 
@@ -55,10 +54,6 @@
 
 ## Github Trophy🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ivetri&theme=onedark)](https://github.com/Ivetri)
-
-<p align="center">
-    <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20❤-red?style=for-the-badge&logo=github"/>
-</p>
 
 ### Connect with me:
 
@@ -186,3 +181,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 9. 🔥 Pushed to IVETRI/IVETRI
 10. 🔥 Pushed to IVETRI/IVETRI
 <!--END_SECTION:activity-->
+
+<p align="center">
+    <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20❤-red?style=for-the-badge&logo=github"/>
+</p>

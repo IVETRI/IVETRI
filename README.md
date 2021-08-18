@@ -169,7 +169,8 @@ CSS                      2 repos             █░░░░░░░░░░�
 7. 🔥 Pushed to [TamilBots/TamilVcBot](GitHub.com/TamilBots/TamilVcBot)
 8. 🔥 Pushed to [TamilBots/TamilBot](GitHub.com/TamilBots/TamilBot)
 9. 🔥 Pushed to [IVETRI/Soulqueen](GitHub.Com/Ivetri/Soulqueen)
- 10.🔥 Pushed to [IVETRI/IVETRI](GitHub.com/Ivetri/Ivetri)
+
+10.🔥 Pushed to [IVETRI/IVETRI](GitHub.com/Ivetri/Ivetri)
 <!--END_SECTION:activity-->
 
 <p align="center">

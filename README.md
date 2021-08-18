@@ -161,7 +161,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to [IVETRI/Tamilini](GitHub.Com/Ivetri/Tamilini)
-2. 🔥 Pushed to [IVETRI/YtDlBot](GitHub.com/Ivetri/YtDlBot]
+2. 🔥 Pushed to [IVETRI/YtDlBot](GitHub.com/Ivetri/YtDlBot)
 3. 🔥 Pushed to [IVETRI/Monitor](GitHub.com/Ivetri/Monitor)
 4. 🔥 Pushed to [IVETRI/TamilUserBot](GitHub.Com/Ivetri/Tamiluserbot)
 5. 🔥 Pushed to [TamilBots/SongPlayRoBot](GitHub.com/TamilBots/SongPlayRoBot)
@@ -169,7 +169,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 7. 🔥 Pushed to [TamilBots/TamilVcBot](GitHub.com/TamilBots/TamilVcBot)
 8. 🔥 Pushed to [TamilBots/TamilBot](GitHub.com/TamilBots/TamilBot)
 9. 🔥 Pushed to [IVETRI/Soulqueen](GitHub.Com/Ivetri/Soulqueen)
-10.🔥 Pushed to [IVETRI/IVETRI](GitHub.com/Ivetri/Ivetri)
+10.🔥  Pushed to [IVETRI/IVETRI](GitHub.com/Ivetri/Ivetri)
 <!--END_SECTION:activity-->
 
 <p align="center">

@@ -160,7 +160,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to IVETRI/Tamilini
+1. 🔥 Pushed to [IVETRI/Tamilini](GitHub.Com/Ivetri/Tamilini)
 2. 🔥 Pushed to IVETRI/YtDlBot
 3. 🔥 Pushed to IVETRI/Monitor
 4. 🔥 Pushed to IVETRI/TamilUserBot

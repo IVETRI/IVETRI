@@ -19,14 +19,14 @@
 
 [👋](https://t.me/iMvEtRi) I'm [VETRI](https://telegram.me/iMvEtRi),
 
-- 🔭 I’m currently studying,
-- 🌱 I’m currently learning Bsc Travel & Hospitality Management,
+- 🔭 I’m currently Working,
+- 🌱 I’m currently learning Python, Php, Linux And Open Source Projects,
 - 👯 I’m looking to collaborate on My Projects,
-- 🤔 I’m looking for help with open source,
+- 🤔 I’m looking for help with my open source Projects,
 - 💬 Ask me about Anything ready to help you,
-- 📫 reach me on telegram : [@iMvEtRi](https://t.me/iMvEtRi)
-- 😄 Call me *VETRI*
-- ⚡ Fun fact: I'M Human...
+- 📫 Feel Free to Reach Me On Telegram : [@iMvEtRi](https://t.me/iMvEtRi)
+- 😄 Call Me *VETRI*
+- ⚡ Fun Fact: I'M Human...
 
 
 **Languages and Tools:**  
